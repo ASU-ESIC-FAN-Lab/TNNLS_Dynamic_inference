@@ -1,7 +1,8 @@
 This is the source code for publication: Li Yang, Zhezhi He, Yu Cao, and Deliang Fan, “A Progressive Sub-network Searching Framework for Dynamic Inference,” IEEE Transactions on Neural Networks and Learning Systems (TNNLS), DOI: 10.1109/TNNLS.2022.3199703
 
 If you find the code is useful, please cite our work
-
+## citation
+```bash
 @article{yang2022progressive,
   title={A progressive subnetwork searching framework for dynamic inference},
   author={Yang, Li and He, Zhezhi and Cao, Yu and Fan, Deliang},
@@ -12,3 +13,4 @@ If you find the code is useful, please cite our work
   year={2022},
   publisher={IEEE}
 }
+```
